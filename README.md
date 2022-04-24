@@ -1,6 +1,6 @@
 A simple little game for drilling kanji that you frequently mix up.
 
-![](./sk_example.mov)
+![](./sk_example.gif)
 
 ## Running the game
 
