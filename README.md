@@ -7,6 +7,9 @@ A simple little game for drilling kanji that you frequently mix up.
 The game requires love2d (https://love2d.org) to run, 
 see https://love2d.org/wiki/Getting_Started for instructions on how to run for your platform.
 
+It isn't bundled as an exe so users can freely modify the input data as they so chose, see the
+_modification_ section below for details.
+
 ## How to play
 
 Choose play > choose a mode (onyomi, kunyomi or meaning).
