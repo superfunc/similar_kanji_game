@@ -1,6 +1,11 @@
 A simple little game for drilling kanji that you frequently mix up.
 
-![](./sk_example_small.gif)
+<img width="1218" alt="make" src="https://user-images.githubusercontent.com/1583002/165000036-6d382c1b-06dd-4475-b93a-83b0977ab3db.png">
+
+<img width="1219" alt="miss" src="https://user-images.githubusercontent.com/1583002/165000039-26bad7ff-e39a-47dd-86e7-8d65f7f391f0.png">
+
+<img width="1222" alt="end" src="https://user-images.githubusercontent.com/1583002/165000042-ee5652c6-7583-4cac-a4a4-951ad148667a.png">
+
 
 ## Running the game
 
