@@ -747,7 +747,7 @@ end
 function update_ingame(dt)
 
     -- End game
-    if (lives == 0 and loss_animation_complete == true) or end_state_achieved then
+    if (lives <= 0 and loss_animation_complete == true) or end_state_achieved then
       meta_mode = "scorescreen"
       return
     end
