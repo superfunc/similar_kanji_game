@@ -7,6 +7,32 @@ A simple little game for drilling kanji that you frequently mix up.
 The game requires love2d (https://love2d.org) to run, 
 see https://love2d.org/wiki/Getting_Started for instructions on how to run for your platform.
 
+## How to play
+
+Choose play > choose a mode (onyomi, kunyomi or meaning).
+
+**In Game** 
+- In the center, a kanji is displayed, on each side is a potential answer,
+based on the `similar_kanji.lua` file. Choose an answer by inputting left or
+right on the keyboard. The score recieved for a correct answer is multiplied
+by the amount of time remaining. 
+
+- Press escape to pause in game.
+
+**Menus**
+
+- Directional buttons to navigate
+- Enter to confirm
+
+In game a timer runs unti
+
+**Post Game**
+
+- A file `troubled_kanji.txt` will be saved in the game's corresponding save dir, described here
+https://love2d.org/wiki/love.filesystem. This will contain the full list of kanji you've gotten wrong, 
+it's purpose is simply so users can grab and paste the kanji into something else like a text document
+if they wanted.
+
 ## Modification
 
 Users can modify a few things to customize their experience:

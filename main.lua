@@ -1016,7 +1016,7 @@ function love.load()
     settings_state = load_settings()
     scores_state = load_scores()
 
-    menu_state = { options = { "play", "settings", "high scores", "credits", "how to play", "quit" }, 
+    menu_state = { options = { "play", "settings", "high scores", "credits", "quit" }, 
                    highlighted = "play", index = 1, level = "top" }
     menu_enter_pushed = false
     scorescreen_exit = false
