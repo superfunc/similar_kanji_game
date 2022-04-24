@@ -19,7 +19,7 @@ that definitions are ; separated).
 
 ### Data
 
-The data was pulled from jisho.org's API, and the WaniKani data from https://wkstats.org
+The data was pulled from https://jisho.org 's API, and the WaniKani data from https://wkstats.com
 
 ### Sounds
 
