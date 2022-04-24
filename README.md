@@ -29,6 +29,10 @@ The sounds were provided from https://twitter.com/kennynl 's free asset pack.
 
 The fonts are released under the Open Font license, links to their google fonts pages are below
 
+- Sniglet: https://fonts.google.com/specimen/Sniglet?thickness=9#standard-styles
+- Sue Ellen Francisco: https://fonts.google.com/specimen/Sue+Ellen+Francisco?category=Handwriting
+- Zen Kurenaido: https://fonts.google.com/specimen/Zen+Kurenaido?query=zen&subset=japanese
+
 ### Art
 
 The images were made by https://twitter.com/samfilstrup, if you like them, please go support the artist!
