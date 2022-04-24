@@ -39,3 +39,7 @@ The fonts are released under the Open Font license, links to their google fonts 
 ### Art
 
 The images were made by https://twitter.com/samfilstrup, if you like them, please go support the artist!
+
+## Known Issues
+
+- It looks a bit oversized on retina displays

@@ -994,7 +994,6 @@ function love.load()
     settings_file_path = "settings.txt"
     scores_file_path = "scores.txt"
     troubled_kanji_file_path = "troubled_kanji.txt"
-    debug_mode = false
     chalk_font_color = {0.8,0.8,0.8,0.8}
     font_color = {1.0,0.0,0.6}
     selected_font_color = {1.0, 0.99, 0.82}
@@ -1298,14 +1297,6 @@ function love.draw()
   elseif meta_mode == "scorescreen" then
     draw_scorescreen()
   end
-
-  love.graphics.setColor(unpack(font_color))
-  --if debug_mode then 
-    header_info = header_info .. "FPS: " .. love.timer.getFPS() 
-    header_info = header_info .. ", Lives: " .. tostring(lives)
-    header_info = header_info .. ", S: " .. tostring(bg_scroll_speed)
-  --end
-  love.graphics.print(header_info, ingame_ui_font, 20, 20)
 end
 
 function love.quit()
