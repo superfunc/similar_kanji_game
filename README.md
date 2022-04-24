@@ -9,8 +9,13 @@ A simple little game for drilling kanji that you frequently mix up.
 
 ## Running the game
 
-The game requires love2d (https://love2d.org) to run, after installing that, point the
-proper command at the similar_kanji/ directory:
+The game requires love2d (https://love2d.org) to run
+1. Install love2d
+2. Download the zip of this repository & unzip
+<img width="423" alt="Screen Shot 2022-04-24 at 4 12 35 PM" src="https://user-images.githubusercontent.com/1583002/165000619-be7cfbfd-0092-4024-8203-13eeb64f65c3.png">
+3. Run the command for your platform below
+
+
 
 Windows (use CMD application):
 ```
@@ -19,12 +24,12 @@ Windows (use CMD application):
 
 linux (from a terminal)
 ```
-love similar_kanji
+love <path-to-unzipped-dir>/similar_kanji
 ```
 
 macOS (from a terminal)
 ```
-open -n -a love similar_kanji
+open -n -a love <path-to-unzipped-dir>/similar_kanji
 ```
 
 It isn't bundled as an exe so users can freely modify the input data as they so chose, see the
