@@ -4,7 +4,8 @@ A simple little game for drilling kanji that you frequently mix up.
 
 ## Running the game
 
-The game requires love2d (https://love2d.org) to run, after installing that:
+The game requires love2d (https://love2d.org) to run, after installing that, point the
+proper command at the similar_kanji/ directory:
 
 Windows (use CMD application):
 ```
