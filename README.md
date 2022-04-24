@@ -5,7 +5,23 @@ A simple little game for drilling kanji that you frequently mix up.
 ## Running the game
 
 The game requires love2d (https://love2d.org) to run, 
-see https://love2d.org/wiki/Getting_Started for instructions on how to run for your platform.
+see https://love2d.org/wiki/Getting_Started for instructions on how to run for your platform, but
+TL;DR
+
+Windows:
+```
+"C:\Program Files\LOVE\love.exe" "C:\<path-to-game>\similar_kanji"
+```
+
+linux
+```
+love similar_kanji
+```
+
+macOS
+```
+open -n -a love similar_kanji
+```
 
 It isn't bundled as an exe so users can freely modify the input data as they so chose, see the
 _modification_ section below for details.
