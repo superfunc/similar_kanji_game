@@ -43,7 +43,7 @@ Choose play > choose a mode (onyomi, kunyomi or meaning).
 - In the center, a kanji is displayed, on each side is a potential answer,
 based on the `similar_kanji.lua` file. Choose an answer by inputting left or
 right on the keyboard. The score recieved for a correct answer is multiplied
-by the amount of time remaining. 
+by the amount of time remaining on the time bar (pink). 
 
 - Press escape to pause in game.
 
@@ -51,8 +51,6 @@ by the amount of time remaining.
 
 - Directional buttons to navigate
 - Enter to confirm
-
-In game a timer runs unti
 
 **Post Game**
 
