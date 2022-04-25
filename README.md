@@ -1,3 +1,5 @@
+> Note: bugs will get fixed, feel free to file them, but packaging and feature requests I likely won't have time for <3
+
 A simple little game for drilling kanji that you frequently mix up.
 
 <details>
